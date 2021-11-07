@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RIYADHABBES
-- 😀 I’m a control theory and computer science student (Available for Intenship). 
+- 😀 I’m a control theory and computer science student (Available for Internship). 
 - 👀 I’m interested in Programming & Drones
 - 🔨  C/C++
 - ⚙️  Matlab/Simulink - Arduino - Visual Studio 
