@@ -4,8 +4,8 @@
 - 🔨  C/C++
 - ⚙️  Matlab/Simulink - Arduino - Visual Studio 
 - 🌱 I’m currently building my own Quadcopter from scratch 🪁
-- 💡 Aslo, I'm learning QT Creator
-- 💞️ I’m looking to collaborate on GUI open source projects.
+- 💡 Aslo, I'm using QT Creator
+- 💞️ I’m looking to collaborate on OpenGL/3D open source projects.
 - 📫 How to reach me: <a href="mailto:noufelbelbecir@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 <!---
